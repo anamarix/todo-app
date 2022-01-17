@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: radial-gradient(circle, #e594e2, #cb81cf, #b06ebc, #975ca9, #7e4b96);
+  color: black;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
